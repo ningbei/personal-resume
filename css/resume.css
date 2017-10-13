@@ -523,16 +523,16 @@ div.row > main > ul li.shownow > div.main section.skills > ul li:nth-child(3) >d
 	width:82%;
 }
 div.row > main > ul li.shownow > div.main section.skills > ul li:nth-child(4) >div >span{
-	width:80%;
+	width:65%;
 }
 div.row > main > ul li.shownow > div.main section.skills > ul li:nth-child(5) >div >span{
-	width:85%;
+	width:75%;
 }
 div.row > main > ul li.shownow > div.main section.skills > ul li:nth-child(6) >div >span{
-	width:78%;
+	width:65%;
 }
 div.row > main > ul li.shownow > div.main section.skills > ul li:nth-child(7) >div >span{
-	width:80%;
+	width:70%;
 }
 /*右分页-第三页*/
 div.row > main > ul li:nth-child(3) > div.main >nav{
